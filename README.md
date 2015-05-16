@@ -2,7 +2,6 @@
 
 yourmodule.gwt.xml
 <pre>
-	&lt;plugin&gt;
 &lt;inherits name="com.googlecode.gwt.crypto.Crypto"/&gt;
 </pre>
 
